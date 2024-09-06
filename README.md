@@ -71,7 +71,7 @@ Welcome to the Takshila Student Portal! This web application is designed to prov
 
 ### Login Information
 
-- **Username:** `amanjha@gmail.com`
-- **Password:** `string`
+- **Username:** `kashif@gmail.com`
+- **Password:** `test@123`
 
 You can use the Website over here https://takshilastudentportal.vercel.app/
